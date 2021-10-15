@@ -6,3 +6,4 @@ Tässä tehdään harjoituksia
 
 Perusteiden hallintaa. On *tärkeää* muistaa lukea kaikki kohdat __huolellisesti__.
 
+[gitlog](https://github.com/viliperi/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
