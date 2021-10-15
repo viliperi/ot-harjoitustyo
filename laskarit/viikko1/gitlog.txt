@@ -1,0 +1,154 @@
+commit f3ffa2618ebb77c077147fd7e4a57dddce1ce160
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 13:31:31 2021 +0300
+
+    päivitys
+
+ tiedostoja/file1  | 1 -
+ tiedostoja/file2  | 1 -
+ tiedostoja/file22 | 1 +
+ 3 files changed, 1 insertion(+), 2 deletions(-)
+
+commit 8af48e18b3ea4833b8bf3f4c7bb26dbe2989a4ae
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 13:13:44 2021 +0300
+
+    päivitettyjä tiedostoja
+
+ tiedostoja/file1 | 1 +
+ tiedostoja/file2 | 1 +
+ tiedostoja/file3 | 1 +
+ 3 files changed, 3 insertions(+)
+
+commit 6d7910acf311c67215f198342f53ecf762f70467
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 13:09:57 2021 +0300
+
+    lisätää tiedostot
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0df1b0875cc7d67f876bf64de4afbe13dda8d62b
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 13:03:34 2021 +0300
+
+    muutokset
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 71a79373c5ce1f96db117ed45600290158631c88
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 13:01:26 2021 +0300
+
+    uusi yritys
+
+ eka.txt    | 5 +++++
+ kolmas.txt | 1 +
+ 2 files changed, 6 insertions(+)
+
+commit 531bd554b0b083476fe70020f1e719e49063b4aa
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 13:00:47 2021 +0300
+
+    no nyt
+
+ eka.txt    | 3 ---
+ kolmas.txt | 0
+ 2 files changed, 3 deletions(-)
+
+commit b9edf79ffab01357f730769aff2b35ad641e7166
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 12:56:25 2021 +0300
+
+    muutettu tiedoston nimi
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7ad94ec83d59d7aa95f2a4e135aa65c02bc6b204
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 12:55:43 2021 +0300
+
+    poistettu tiedosto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f94e8ec5946a0c149d7ad0f69df4b618607ebbe1
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 11:36:50 2021 +0300
+
+    tiedosto.txt muutettu
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 1814f130638ca0a8425b5e4b3e81036d2eb83df1
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 11:35:27 2021 +0300
+
+    muutettu taas tekstiä tiedosto.txt
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 14428d82e6e6b54266d0a34921622af4f1b64c45
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 11:33:37 2021 +0300
+
+    muutettu tekstiä
+
+ tiedosto.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit b400c2941ed9d3311589fd48d64803f284f35a26
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 11:26:43 2021 +0300
+
+    lisätty tiedosto uusi.txt
+
+ stuff/uusi.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit ba67c06a7b1594afaa3bb792fd29e4912e632127
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 11:22:42 2021 +0300
+
+    Päivitetty tiedostoja
+
+ tiedosto.txt | 2 +-
+ toinen.txt   | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 655ec28b80dfc7ce4ccf387b3fa943f8aec8c0cd
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Fri Oct 15 11:21:22 2021 +0300
+
+    kolmas tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3909f5302b3b2f7bbe60d5bbdae8c8eecae9685f
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Thu Oct 14 15:36:53 2021 +0300
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit e2f4d2f408faea6619bb4e586b6de3ef77bd2fb6
+Author: Ville Tirroniemi <ville_tirroniemi@hotmail.com>
+Date:   Thu Oct 14 15:34:37 2021 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
